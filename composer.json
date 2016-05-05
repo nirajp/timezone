@@ -1,13 +1,17 @@
 {
-    "name": "camroncade/timezone",
-    "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones.",
-    "homepage": "http://www.camroncade.com/managing-timezones-with-laravel/",
+    "name": "nirajp/timezone",
+    "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones. Forked from camroncade/timezone",
+    "homepage": "https://github.com/nirajp/timezone",
     "keybords": ["timezone", "timezones"],
     "license": "MIT",
     "authors": [
         {
             "name": "Camron Cade",
             "email": "camron@camroncade.com"
+        },
+        {
+            "name": "Niraj Patkar",
+            "email": "niraj@alphonso.in"
         }
     ],
     "require": {
@@ -19,7 +23,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Camroncade\\Timezone\\": "src/"
+            "Nirajp\\Timezone\\": "src/"
         }
     },
     "minimum-stability": "stable"
