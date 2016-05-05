@@ -23,7 +23,7 @@
             "src/migrations"
         ],
         "psr-0": {
-            "Nirajp\\Timezone\\": "src/"
+            "Camroncade\\Timezone\\": "src/"
         }
     },
     "minimum-stability": "stable"
