@@ -1,5 +1,7 @@
 This is forked from camroncade/timezone, only difference being the timezone array, which is updated to ensure that each key appears only once. 
 
+[![Build Status](https://travis-ci.org/nirajp/timezone.svg)](https://travis-ci.org/nirajp/timezone)
+
 e.g. The key 'Asia/Tokyo' appeared thrice in the original array as below...
     '(UTC+09:00) Osaka' => 'Asia/Tokyo',
     '(UTC+09:00) Sapporo' => 'Asia/Tokyo',
