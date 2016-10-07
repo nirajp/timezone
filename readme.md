@@ -3,11 +3,13 @@ This is forked from camroncade/timezone, only difference being the timezone arra
 [![Build Status](https://travis-ci.org/nirajp/timezone.svg)](https://travis-ci.org/nirajp/timezone)
 
 e.g. The key 'Asia/Tokyo' appeared thrice in the original array as below...
+
     '(UTC+09:00) Osaka' => 'Asia/Tokyo',
     '(UTC+09:00) Sapporo' => 'Asia/Tokyo',
     '(UTC+09:00) Tokyo' => 'Asia/Tokyo',
 
 It now appears only once...
+
     '(UTC+09:00) Tokyo' => 'Asia/Tokyo',
 
 # Timezone Select Form Builder
