@@ -2,7 +2,7 @@
     "name": "nirajp/timezone",
     "description": "Helps manage timezones in Laravel. Includes <select> form builder for timezones. Forked from camroncade/timezone",
     "homepage": "https://github.com/nirajp/timezone",
-    "keybords": ["timezone", "timezones"],
+    "keywords": ["timezone", "timezones"],
     "license": "MIT",
     "authors": [
         {
